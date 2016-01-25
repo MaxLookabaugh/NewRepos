@@ -1,4 +1,7 @@
 # Velociraptors
 
 # hello 
-##ingredients
+##ingredient
+
+- DIno dna 
+-Frig dna 
